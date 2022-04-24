@@ -5,6 +5,7 @@ This is a simple project in OOAD with java which is based on online ordering sys
 # Overview of the code 
 
 We have 4 packages in the code and 1 main file :
+
 **The Boundary package** is a front-end for our project where it has 6 java files all which help in building up the interactions with the user
 
 **The Control package** is a middleware which has has total of 4 java files which orchestrate the execution of the business logic is being computed and is updated to the backend
