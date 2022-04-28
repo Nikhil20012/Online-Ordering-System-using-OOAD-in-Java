@@ -12,6 +12,6 @@ We have 4 packages in the code and 1 main file :
 
 **The Database package** is the one where we create our own java database to store the user's account information locally , it has 5 txt for storing the product and user information and 1 java file which is the java database
 
-**The Entity package** is the one which interacts which the database and helps in getting the relevant information , it contains total of 7 java files
+**The Entity package** is the one which interacts which the database and helps in getting the relevant information and contains all details of the entities present in the project , it contains total of 7 java files
 
 **Main File** is the entry file from which we can synchronize everything and start the execution of the application
