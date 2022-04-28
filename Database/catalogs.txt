@@ -1,0 +1,6 @@
+Catalog number,Catalog name,Product,...
+001,Sport,Basketball,Volleyball,Football
+002,Music,Midi keyboard,Guitar,Drums,Drumsticks
+003,Software,Office,Windows,NBA 2K21
+004,Electronics,Smartphone,Laptop,Gaming PC
+005,Grocery,Rice,Wheat,Dal
