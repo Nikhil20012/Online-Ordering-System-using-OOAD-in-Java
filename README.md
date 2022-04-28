@@ -15,3 +15,7 @@ We have 4 packages in the code and 1 main file :
 **The Entity package** is the one which interacts which the database and helps in getting the relevant information and contains all details of the entities present in the project , it contains total of 7 java files
 
 **Main File** is the entry file from which we can synchronize everything and start the execution of the application
+
+
+
+To tun the code: Open the code in the VSCode and satrt debugging.
